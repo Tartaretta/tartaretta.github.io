@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: teal;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+header{
+    background-color: black;
+    color: teal;
+    font-size: 20px;
+}
